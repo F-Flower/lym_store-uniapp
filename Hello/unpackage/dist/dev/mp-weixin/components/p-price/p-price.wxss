@@ -1,0 +1,12 @@
+
+.new.data-v-391bcb5e {
+	font-size: 34rpx;
+	color: #f60;
+	font-weight: 700;
+}
+.old.data-v-391bcb5e {
+	text-decoration: line-through;
+	color: #ccc;
+	margin-left: 20rpx;
+}
+

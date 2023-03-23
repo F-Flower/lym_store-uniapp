@@ -1,0 +1,11 @@
+{
+  "usingComponents": {
+    "search-slot": "/components/search-slot/search-slot",
+    "swiper-banner": "/components/swiper-banner/swiper-banner",
+    "swiper-boxs": "/components/swiper-boxs/swiper-boxs",
+    "divider": "/components/divider/divider",
+    "three-adv": "/components/three-adv/three-adv",
+    "one-adv": "/components/one-adv/one-adv",
+    "content-list": "/components/content-list/content-list"
+  }
+}

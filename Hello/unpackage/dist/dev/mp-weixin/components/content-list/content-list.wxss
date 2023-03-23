@@ -1,0 +1,13 @@
+
+.detail.data-v-28b816c4 {
+	/* 作为弹性伸缩盒子模型显示 */
+	display: -webkit-box;
+	/* 设置伸缩盒子对象的子元素排列方式 */
+	-webkit-box-orient: vertical;
+	/* 设置块元素包含的文本行数 */
+	-webkit-line-clamp: 3;
+	/* 溢出隐藏 */
+	overflow: hidden;
+	line-height: 1.4;
+}
+

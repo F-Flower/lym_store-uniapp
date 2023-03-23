@@ -1,0 +1,6 @@
+
+.search-top {
+	height: 88rpx;
+	/* background-color: #eee; */
+}
+

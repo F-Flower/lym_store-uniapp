@@ -1,0 +1,1 @@
+<view class="three-adv d-flex"><view class="w-50 d-flex flex-1"><image style="height:460rpx;" src="{{section.data[0].src}}" mode></image></view><view class="w-50 d-flex flex-column" style="height:460rpx;"><image style="width:375rpx;" src="{{section.data[1].src}}"></image><image style="width:375rpx;" src="{{section.data[2].src}}"></image></view></view>
